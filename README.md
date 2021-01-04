@@ -1,4 +1,3 @@
-# employee_trackerDB
 # Employee Tracker DB
 
 ## Description
