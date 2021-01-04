@@ -1,0 +1,30 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "Employee tracker",
+  "main": "server.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Corder25/employee_trackerDB.git"
+  },
+  "keywords": [
+    "Employee",
+    "tracker"
+  ],
+  "author": "Cameron Corder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Corder25/employee_trackerDB/issues"
+  },
+  "homepage": "https://github.com/Corder25/employee_trackerDB#readme"
+}
